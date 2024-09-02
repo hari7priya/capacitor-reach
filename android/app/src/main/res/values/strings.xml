@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capreach</string>
+    <string name="title_activity_main">capreach</string>
+    <string name="package_name">org.uclahealth.ctrl.capreach</string>
+    <string name="custom_url_scheme">org.uclahealth.ctrl.capreach</string>
+</resources>
